@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\o_f\\PhanMem_QL_KTX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|c:\\o_f\\phanmem_ql_ktx\\phanmem_ql_ktx\\newstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\newstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\addnewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\addnewroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\updatedeletestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\updatedeletestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\leavedstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\leavedstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\allstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\allstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|C:\\o_f\\PhanMem_QL_KTX\\phanmem_ql_ktx\\allstudentliving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB618F04-FE7B-45F8-9580-B49FAB2C50D2}|PhanMem_QL_KTX\\PhanMem_QL_KTX.csproj|solutionrelative:phanmem_ql_ktx\\allstudentliving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\Form1.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\Form1.cs",
+              "ToolTip": "C:\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:05:07.184Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\Dashboard.cs",
+              "ToolTip": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\Dashboard.cs [Design]",
+              "RelativeToolTip": "PhanMem_QL_KTX\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:46:40.018Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewRoom.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AddNewRoom.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\AddNewRoom.cs",
+              "ToolTip": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AddNewRoom.cs [Design]",
+              "RelativeToolTip": "PhanMem_QL_KTX\\AddNewRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:57:42.443Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewStudent.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\NewStudent.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\NewStudent.cs",
+              "ToolTip": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\NewStudent.cs [Design]",
+              "RelativeToolTip": "PhanMem_QL_KTX\\NewStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:37:03.827Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDeleteStudent.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\UpdateDeleteStudent.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\UpdateDeleteStudent.cs",
+              "ToolTip": "C:\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\UpdateDeleteStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\UpdateDeleteStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:11.515Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllStudentLiving.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AllStudentLiving.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\AllStudentLiving.cs",
+              "ToolTip": "C:\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AllStudentLiving.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AllStudentLiving.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:02:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllStudent.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AllStudent.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\AllStudent.cs",
+              "ToolTip": "C:\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AllStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\AllStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:58:50.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeavedStudent.cs [Design]",
+              "DocumentMoniker": "C:\\o_f\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\LeavedStudent.cs",
+              "RelativeDocumentMoniker": "PhanMem_QL_KTX\\LeavedStudent.cs",
+              "ToolTip": "C:\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\LeavedStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QL_KTX\\PhanMem_QL_KTX\\LeavedStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:25:49.856Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
